@@ -1,0 +1,9 @@
+.offer-section {
+  background-color: #ffe5e0;
+  color: #333;
+}
+
+.offer-section p {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
